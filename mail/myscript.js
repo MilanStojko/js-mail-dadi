@@ -16,9 +16,9 @@ else{
     alert("email errata");
 }
 
-if(emailCheck){
-    console.log("email corretta");
-}
-else{
-    console.log("email errata");
-}
+// if(emailCheck){
+//     console.log("email corretta");
+// }
+// else{
+//     console.log("email errata");
+// }
